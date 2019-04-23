@@ -2,7 +2,7 @@
 
 This is the repo with the sample code for the blog post **"Simple XCTest Log Formatter in Swift"**.
 
-For more information visit https://VojtaStavik.com/2019/04/15/xctest-log-formatter/.
+For more information visit https://vojtastavik.com/2019/04/23/xctest-log-formatter/.
 
 ## Example
 
